@@ -1,0 +1,2 @@
+# Calculator
+I developed a Project on Calculator using Basic Concepts of C++ and Computer Graphics during Class-11. It can perform the functionalities of three types of Calculator: 1. Arithmetic Calculator (+,-,*,/ and %), 2. Logical Calculator (&lt;,>,=,&lt;= and >=) and 3. Scientific Calculator (Trigonometric Functions: sine, cosine, tangent, cotangent, secant and cosecant, Power (Base and Exponent) and Square Root of a Number)
